@@ -1,0 +1,12 @@
+com\zjt\service\IMygAdminService.class
+com\zjt\service\impl\MygUserCollectionServiceImpl.class
+com\zjt\service\impl\MygUserServiceImpl.class
+com\zjt\service\IMygUserService.class
+com\zjt\service\impl\MygUserAddressServiceImpl.class
+com\zjt\dao\MygUserAddressMapper.class
+com\zjt\dao\MygUserCollectionMapper.class
+com\zjt\dao\MygUserMapper.class
+com\zjt\service\IMygUserAddressService.class
+com\zjt\service\IMygUserCollectionService.class
+com\zjt\service\impl\MygAdminServiceImpl.class
+com\zjt\dao\MygAdminMapper.class

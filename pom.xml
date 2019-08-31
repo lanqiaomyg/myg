@@ -3,19 +3,17 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
     <groupId>com.zjt</groupId>
     <artifactId>myg</artifactId>
     <packaging>pom</packaging>
-    <version>${project.version}</version>
+    <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>myg-common</module>
         <module>myg-view</module>
+        <module>myg-common</module>
         <module>myg-product-dao-service</module>
         <module>myg-user-dao-service</module>
         <module>myg-system-dao-service</module>
         <module>myg-order-dao-service</module>
-        <module>myg-product-dao-service</module>
     </modules>
     <name>myg</name>
     <url>http://www.example.com</url>
@@ -25,10 +23,11 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
+        <jackson.version>2.5.0</jackson.version>
         <jdk.version>1.8</jdk.version>
         <junit.version>4.12</junit.version>
         <spring.version>4.3.6.RELEASE</spring.version>
-        <mysql.driver.version>8.0.15</mysql.driver.version>
+        <mysql.driver.version>8.0.17</mysql.driver.version>
         <slf4j.version>1.7.21</slf4j.version>
         <log4j.version>1.2.17</log4j.version>
         <druid.version>1.0.29</druid.version>
@@ -54,88 +53,43 @@
         <joda.time.version>2.9.9</joda.time.version>
         <pinyin4j.version>2.5.0</pinyin4j.version>
         <weixin.sdk.version>1.0.0</weixin.sdk.version>
-        <mybatis.plus.version>2.1-gamma</mybatis.plus.version>
+        <mybatis.plus.version>3.2.0</mybatis.plus.version>
+        <mybatis.plus.generator.version>3.2.0</mybatis.plus.generator.version>
         <ehcache.version>2.10.3</ehcache.version>
-        <mybatis.ehcache.version>1.0.0</mybatis.ehcache.version>
-        <mybatis.version>3.2.8</mybatis.version>
-        <mybatis.spring.version>1.2.2</mybatis.spring.version>
+        <mybatis.ehcache.version>1.1.0</mybatis.ehcache.version>
+        <mybatis.version>3.4.6</mybatis.version>
+        <mybatis.spring.version>2.0.2</mybatis.spring.version>
+        <lombok.version>1.16.8</lombok.version>
+        <velocity.version>2.1</velocity.version>
+        <beetl.version>3.0.11.RELEASE</beetl.version>
+        <pagehelper.version>4.2.1</pagehelper.version>
     </properties>
-    <!-- 远程仓库 -->
-    <repositories>
-        <repository>
-            <id>maven-aliyun</id>
-            <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
-            <releases>
-                <enabled>true</enabled>
-            </releases>
-            <snapshots>
-                <enabled>true</enabled>
-                <updatePolicy>always</updatePolicy>
-                <checksumPolicy>fail</checksumPolicy>
-            </snapshots>
-        </repository>
-        <repository>
-            <id>alfrescoRepository</id>
-            <url>https://maven.alfresco.com/nexus/content/groups/public/</url>
-        </repository>
-        <repository>
-            <id>artifactoryonlineRepository</id>
-            <url>http://gradle.artifactoryonline.com/gradle/libs/</url>
-        </repository>
-        <repository>
-            <id>jbossRepository2</id>
-            <url>http://repository.jboss.org/nexus/content/groups/public-jboss</url>
-        </repository>
-        <repository>
-            <id>repoRepository</id>
-            <url>http://repo1.maven.org/maven2/</url>
-        </repository>
-        <repository>
-            <id>jbossRepository</id>
-            <url>http://repository.jboss.com/maven2/</url>
-        </repository>
-        <repository>
-            <id>sonatypeRepository</id>
-            <url>http://repository.sonatype.org/content/groups/public/</url>
-        </repository>
-        <repository>
-            <id>ibiblioRepository</id>
-            <url>http://mirrors.ibiblio.org/pub/mirrors/maven2/org/acegisecurity/</url>
-        </repository>
-        <repository>
-            <id>lbiblioRepository2</id>
-            <url>http://mirrors.ibiblio.org/maven2/</url>
-        </repository>
-    </repositories>
-    <!-- 插件仓库 -->
-    <pluginRepositories>
-        <pluginRepository>
-            <id>aliyunPluginRepository</id>
-            <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
-        </pluginRepository>
-        <pluginRepository>
-            <id>repoPluginRepository</id>
-            <url>http://repo1.maven.org/maven2/</url>
-        </pluginRepository>
-        <pluginRepository>
-            <id>jbossPluginRepository</id>
-            <url>http://repository.jboss.com/maven2/</url>
-        </pluginRepository>
-        <pluginRepository>
-            <id>sonatypePluginRepository</id>
-            <url>http://repository.sonatype.org/content/groups/public/</url>
-        </pluginRepository>
-        <pluginRepository>
-            <id>ibiblioPluginRepository</id>
-            <url>http://mirrors.ibiblio.org/pub/mirrors/maven2/org/acegisecurity/</url>
-        </pluginRepository>
-        <pluginRepository>
-            <id>ibiblioPluginRepository2</id>
-            <url>http://mirrors.ibiblio.org/maven2/</url>
-        </pluginRepository>
-    </pluginRepositories>
     <dependencyManagement>
         <dependencies>
+            <!-- https://mvnrepository.com/artifact/com.github.pagehelper/pagehelper -->
+            <dependency>
+                <groupId>com.github.pagehelper</groupId>
+                <artifactId>pagehelper</artifactId>
+                <version>${pagehelper.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.baomidou</groupId>
+                <artifactId>mybatis-plus-generator</artifactId>
+                <version>${mybatis.plus.generator.version}</version>
+            </dependency>
+            <!-- ibeetl -->
+            <dependency>
+                <groupId>com.ibeetl</groupId>
+                <artifactId>beetl</artifactId>
+                <version>${beetl.version}</version>
+            </dependency>
+            <!-- velocity begin -->
+            <dependency>
+                <groupId>org.apache.velocity</groupId>
+                <artifactId>velocity-engine-core</artifactId>
+                <version>${velocity.version}</version>
+            </dependency>
+            <!-- velocity end -->
             <!-- junit begin -->
             <dependency>
                 <groupId>junit</groupId>
@@ -144,6 +98,14 @@
                 <scope>test</scope>
             </dependency>
             <!-- junit end -->
+            <!-- lombok begin -->
+            <dependency>
+                <groupId>org.projectlombok</groupId>
+                <artifactId>lombok</artifactId>
+                <version>${lombok.version}</version>
+                <scope>provided</scope>
+            </dependency>
+            <!-- lombox end -->
             <!-- spring begin-->
             <dependency>
                 <groupId>org.springframework</groupId>
@@ -211,7 +173,23 @@
                 <version>${spring.version}</version>
             </dependency>
             <!-- spring end-->
-
+            <!-- jackson begin -->
+            <dependency>
+                <groupId>com.fasterxml.jackson.core</groupId>
+                <artifactId>jackson-databind</artifactId>
+                <version>${jackson.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.fasterxml.jackson.core</groupId>
+                <artifactId>jackson-core</artifactId>
+                <version>${jackson.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.fasterxml.jackson.core</groupId>
+                <artifactId>jackson-annotations</artifactId>
+                <version>${jackson.version}</version>
+            </dependency>
+            <!-- jackson end -->
             <!-- mysql driver begin-->
             <dependency>
                 <groupId>mysql</groupId>
@@ -365,6 +343,7 @@
                 <artifactId>freemarker</artifactId>
                 <version>${freemarker.version}</version>
             </dependency>
+
             <!-- freemarker end-->
 
             <!-- velocity begin-->
@@ -454,17 +433,6 @@
     </dependencyManagement>
     <!--environment begin-->
     <profiles>
-        <!-- 本地 -->
-        <!--<profile>
-            <id>local</id>
-            <properties>
-                <package.environment>local</package.environment>
-            </properties>
-            <activation>
-                <activeByDefault>true</activeByDefault>
-            </activation>
-        </profile>-->
-
         <!-- 开发 -->
         <profile>
             <id>dev</id>
@@ -488,11 +456,9 @@
         </profile>
     </profiles>
     <!--environment end-->
-
     <build>
         <finalName>myg</finalName>
         <defaultGoal>compile</defaultGoal>
-
         <plugins>
             <!-- maven compiler -->
             <plugin>
@@ -508,40 +474,15 @@
                     <maxmem>2048m</maxmem>
                 </configuration>
             </plugin>
-
             <!-- maven war -->
             <plugin>
-                <artifactId>maven-war-plugin</artifactId>
-                <version>3.0.0</version>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-resources-plugin</artifactId>
+                <version>2.5</version>
                 <configuration>
-                    <warSourceDirectory>src/main/webapp</warSourceDirectory>
-                    <archive>
-                        <addMavenDescriptor>false</addMavenDescriptor>
-                    </archive>
-                    <!--<warName>app</warName>-->
-                    <webResources>
-                        <resource>
-                            <!--suppress UnresolvedMavenProperty -->
-                            <directory>src/main/resources/config/${package.environment}</directory>
-                            <targetPath>WEB-INF/classes/config</targetPath>
-                            <filtering>true</filtering>
-                        </resource>
-                    </webResources>
+                    <encoding>UTF-8</encoding>
                 </configuration>
             </plugin>
         </plugins>
-        <resources>
-            <resource>
-                <directory>src/main/resources</directory>
-            </resource>
-            <resource>
-                <directory>src/main/java</directory>
-                <includes>
-                    <include>**/*.xml</include>
-                    <include>**/*.properties</include>
-                </includes>
-                <filtering>false</filtering>
-            </resource>
-        </resources>
     </build>
 </project>

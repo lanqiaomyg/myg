@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mygorderdaoservice" />
+        <module name="mygsystemdaoservice" />
+        <module name="myg-user-dao-service" />
+        <module name="mygdao" />
+        <module name="myg-view" />
+        <module name="myguserdaoservice" />
+        <module name="mygproductdaoservice" />
+        <module name="myg-product-dao-service" />
+        <module name="mygview" />
+        <module name="mygcommon" />
+        <module name="myg-system-dao-service" />
+        <module name="myg-order-dao-service" />
+        <module name="myg-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="myg-product-dao" target="1.8" />
+      <module name="mygadmin" target="1.8" />
+      <module name="mygdao" target="1.8" />
+      <module name="mygorderdao" target="1.8" />
+      <module name="mygsystemdao" target="1.8" />
+      <module name="myguserdao" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="myg-product-dao-service" options="" />
+      <module name="mygcommon" options="" />
+      <module name="mygorderdaoservice" options="" />
+      <module name="mygsystemdaoservice" options="" />
+      <module name="myguserdaoservice" options="" />
+      <module name="mygview" options="" />
+    </option>
+  </component>
+</project>
