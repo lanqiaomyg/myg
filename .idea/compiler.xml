@@ -6,18 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mygorderdaoservice" />
+        <module name="mygcommon" />
         <module name="mygsystemdaoservice" />
         <module name="myg-user-dao-service" />
         <module name="mygdao" />
         <module name="myg-view" />
         <module name="myguserdaoservice" />
-        <module name="mygproductdaoservice" />
         <module name="myg-product-dao-service" />
-        <module name="mygview" />
-        <module name="mygcommon" />
-        <module name="myg-system-dao-service" />
         <module name="myg-order-dao-service" />
+        <module name="mygview" />
+        <module name="mygproductdaoservice" />
+        <module name="myg-system-dao-service" />
+        <module name="mygorderdaoservice" />
         <module name="myg-common" />
       </profile>
     </annotationProcessing>

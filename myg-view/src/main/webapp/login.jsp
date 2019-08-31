@@ -21,14 +21,14 @@
 <div class="container">
     <div class="row">
         <div class="col-md-offset-3 col-md-6">
-            <form class="form-horizontal" id="login" method="post">
+            <form class="form-horizontal" id="login" method="post" action="${pageContext.request.contextPath}/user/login.do">
                 <span class="heading">用户登录</span>
                 <div class="form-group">
-                    <input type="email" class="form-control" id="inputEmail3" name="username" placeholder="用户名或电子邮件">
+                    <input type="text" class="form-control" id="username" name="name" placeholder="用户名或电子邮件">
                     <i class="glyphicon glyphicon-user"></i>
                 </div>
                 <div class="form-group help">
-                    <input type="password" class="form-control" id="inputPassword3" name="password" placeholder="密　码">
+                    <input type="password" class="form-control" id="password" name="pass" placeholder="密　码">
                     <i class="glyphicon glyphicon-lock"></i>
                 </div>
                 <div class="form-group">

@@ -213,9 +213,9 @@
                 </plugin>
                 <plugin>
                     <groupId>org.apache.tomcat.maven</groupId>
-                    <artifactId>tomcat9-maven-plugin</artifactId>
+                    <artifactId>tomcat8-maven-plugin</artifactId>
                     <configuration>
-                        <port>8080</port>
+                        <port>8082</port>
                         <path>/</path>
                     </configuration>
                 </plugin>

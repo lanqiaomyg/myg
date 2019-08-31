@@ -9,7 +9,35 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9b3d873-e959-4389-9fbb-9020575cde37" name="Default Changelist" comment="" />
+    <list default="true" id="b9b3d873-e959-4389-9fbb-9020575cde37" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myg-common/src/main/java/com/zjt/util/MD5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myg-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myg-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myg-order-dao-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myg-order-dao-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myg-order-dao-service/src/main/java/com/zjt/mapper/MygOrderGoodsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myg-order-dao-service/src/main/java/com/zjt/mapper/MygOrderGoodsMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myg-order-dao-service/src/main/java/com/zjt/mapper/MygOrderMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myg-order-dao-service/src/main/java/com/zjt/mapper/MygOrderMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myg-product-dao-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myg-product-dao-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myg-system-dao-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myg-system-dao-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/mapper/MygCourierMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/mapper/MygCourierMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/mapper/MygSysLogMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/mapper/MygSysLogMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/mapper/MygSysRoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/mapper/MygSysRoleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myg-user-dao-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myg-user-dao-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/dao/MygAdminMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/dao/MygAdminMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/mapper/MygAdminMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/mapper/MygAdminMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/mapper/MygUserAddressMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/mapper/MygUserAddressMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/mapper/MygUserCollectionMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/mapper/MygUserCollectionMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/mapper/MygUserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/mapper/MygUserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/service/IMygAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/service/IMygAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/service/impl/MygAdminServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/service/impl/MygAdminServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myg-view/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myg-view/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myg-view/src/main/java/com/zjt/controller/MygGoodsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/myg-view/src/main/java/com/zjt/controller/MygGoodsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myg-view/src/main/java/com/zjt/controller/MygUserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/myg-view/src/main/java/com/zjt/controller/MygUserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myg-view/src/main/resoureces/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myg-view/src/main/resoureces/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myg-view/src/main/resoureces/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myg-view/src/main/resoureces/spring-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myg-view/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/myg-view/src/main/webapp/login.jsp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/myg-order-dao-service/target/" />
     <ignored path="$PROJECT_DIR$/myg-product-dao-service/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,16 +51,70 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="106.14.153.163 [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="106.14.153.163 [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="106.14.153.163 [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="myg: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/myg-view/src/main/webapp/index.jsp">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myg-view/src/main/java/com/zjt/controller/MygUserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="51" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="51" />
+            <state relative-caret-position="262">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myg-view/src/main/resoureces/spring-mvc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myg-view/src/main/resoureces/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+              <folding>
+                <element signature="e#960#978#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,33 +149,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="yr" />
+        <entry key="$PROJECT_DIR$" value="zxj" />
       </map>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/myg-view/src/main/java/com/zjt/controller/MygUserAddressController.java" />
-        <option value="$PROJECT_DIR$/myg-view/src/main/java/com/zjt/controller/MygUserCollectionController.java" />
-        <option value="$PROJECT_DIR$/myg-common/pom.xml" />
-        <option value="$PROJECT_DIR$/myg-common/src/main/java/com/zjt/entity/MygUserAddress.java" />
-        <option value="$PROJECT_DIR$/myg-common/src/main/java/com/zjt/util/Test.java" />
-        <option value="$PROJECT_DIR$/myg-order-dao-service/src/main/java/com/zjt/dao/MygOrderGoodsMapper.java" />
-        <option value="$PROJECT_DIR$/myg-order-dao-service/src/main/java/com/zjt/dao/MygOrderMapper.java" />
-        <option value="$PROJECT_DIR$/myg-order-dao-service/src/main/java/com/zjt/service/IMygOrderGoodsService.java" />
-        <option value="$PROJECT_DIR$/myg-order-dao-service/src/main/java/com/zjt/service/IMygOrderService.java" />
-        <option value="$PROJECT_DIR$/myg-order-dao-service/src/main/java/com/zjt/service/impl/MygOrderGoodsServiceImpl.java" />
-        <option value="$PROJECT_DIR$/myg-order-dao-service/src/main/java/com/zjt/service/impl/MygOrderServiceImpl.java" />
-        <option value="$PROJECT_DIR$/myg-common/src/main/java/com/zjt/entity/MygAdmin.java" />
-        <option value="$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/dao/MygCartMapper.java" />
-        <option value="$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/dao/MygFirstCategoryMapper.java" />
-        <option value="$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/dao/MygGoodsMapper.java" />
-        <option value="$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/dao/MygSecondCategoryMapper.java" />
-        <option value="$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/service/IMygSecondCategoryService.java" />
-        <option value="$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/service/IMygCartService.java" />
-        <option value="$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/service/IMygGoodsService.java" />
-        <option value="$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/service/IMygFirstCategoryService.java" />
         <option value="$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/service/impl/MygSecondCategoryServiceImpl.java" />
         <option value="$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/service/impl/MygCartServiceImpl.java" />
         <option value="$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/service/impl/MygFirstCategoryServiceImpl.java" />
@@ -107,24 +169,44 @@
         <option value="$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/service/impl/MygSysRoleServiceImpl.java" />
         <option value="$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/service/impl/MygSysLogServiceImpl.java" />
         <option value="$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/service/impl/MygCourierServiceImpl.java" />
-        <option value="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/dao/MygAdminMapper.java" />
         <option value="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/dao/MygUserAddressMapper.java" />
         <option value="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/dao/MygUserCollectionMapper.java" />
         <option value="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/dao/MygUserMapper.java" />
         <option value="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/service/impl/MygUserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/service/impl/MygAdminServiceImpl.java" />
         <option value="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/service/impl/MygUserAddressServiceImpl.java" />
         <option value="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/service/impl/MygUserCollectionServiceImpl.java" />
         <option value="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/service/IMygUserService.java" />
-        <option value="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/service/IMygAdminService.java" />
         <option value="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/service/IMygUserAddressService.java" />
         <option value="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/service/IMygUserCollectionService.java" />
         <option value="$PROJECT_DIR$/myg-view/src/main/java/com/zjt/controller/MygAdminController.java" />
         <option value="$PROJECT_DIR$/myg-view/src/main/java/com/zjt/test/JdbcConnectionTest.java" />
-        <option value="$PROJECT_DIR$/myg-view/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/myg-view/src/main/resoureces/applicationContext.xml" />
         <option value="$PROJECT_DIR$/myg-view/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/myg-view/src/main/java/com/zjt/controller/MygGoodsController.java" />
+        <option value="$PROJECT_DIR$/myg-view/src/main/webapp/login.jsp" />
+        <option value="$PROJECT_DIR$/myg-common/src/main/java/com/zjt/util/MD5.java" />
+        <option value="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/service/IMygAdminService.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/myg-view/pom.xml" />
+        <option value="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/service/impl/MygAdminServiceImpl.java" />
+        <option value="$PROJECT_DIR$/myg-view/src/main/resoureces/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/myg-view/src/main/java/com/zjt/controller/MygUserController.java" />
+        <option value="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/dao/MygAdminMapper.java" />
+        <option value="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/mapper/MygAdminMapper.xml" />
+        <option value="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/mapper/MygUserAddressMapper.xml" />
+        <option value="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/mapper/MygUserCollectionMapper.xml" />
+        <option value="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/mapper/MygUserMapper.xml" />
+        <option value="$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/mapper/MygCourierMapper.xml" />
+        <option value="$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/mapper/MygSysLogMapper.xml" />
+        <option value="$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/mapper/MygSysRoleMapper.xml" />
+        <option value="$PROJECT_DIR$/myg-order-dao-service/src/main/java/com/zjt/mapper/MygOrderMapper.xml" />
+        <option value="$PROJECT_DIR$/myg-order-dao-service/src/main/java/com/zjt/mapper/MygOrderGoodsMapper.xml" />
+        <option value="$PROJECT_DIR$/myg-user-dao-service/pom.xml" />
+        <option value="$PROJECT_DIR$/myg-system-dao-service/pom.xml" />
+        <option value="$PROJECT_DIR$/myg-product-dao-service/pom.xml" />
+        <option value="$PROJECT_DIR$/myg-order-dao-service/pom.xml" />
+        <option value="$PROJECT_DIR$/myg-common/pom.xml" />
+        <option value="$PROJECT_DIR$/myg-view/src/main/resoureces/applicationContext.xml" />
       </list>
     </option>
   </component>
@@ -144,7 +226,17 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="myg-view Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="myg-view Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
@@ -162,7 +254,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,13 +279,41 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="myg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myg" type="462c0819:PsiDirectoryNode" />
+              <item name="myg-view" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resoureces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myg" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myg" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myg" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="myguserdaoservice_jar" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
@@ -204,13 +323,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566976859116" />
+    <property name="database.console.LAST_STATE" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8.0_171" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/order/service" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/myg-view/src/main/webapp" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15609756" />
     <property name="project.structure.side.proportion" value="0.24074075" />
     <property name="settings.editor.selected.configurable" value="spring" />
@@ -257,6 +377,19 @@
     </option>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 8.0.521">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zjt.App" />
+      <module name="mygadmin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zjt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JDBCConnectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zjt.test.JDBCConnectionTest" />
       <module name="mygview" />
@@ -276,6 +409,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.zjt.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MD5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zjt.util.MD5" />
+      <module name="mygcommon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zjt.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -374,11 +520,16 @@
       <item itemvalue="Application.JDBCConnectionTest" />
       <item itemvalue="Application.JdbcConnectionTest" />
       <item itemvalue="Tomcat Server.Tomcat 8.0.521" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.MD5" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.JdbcConnectionTest" />
+        <item itemvalue="Application.MD5" />
         <item itemvalue="Application.JDBCConnectionTest" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -399,6 +550,7 @@
       <workItem from="1567072065758" duration="3570000" />
       <workItem from="1567146838477" duration="5861000" />
       <workItem from="1567234326843" duration="5951000" />
+      <workItem from="1567244126657" duration="3515000" />
     </task>
     <task id="LOCAL-00001" summary="修改MySQL版本">
       <created>1566974875969</created>
@@ -481,19 +633,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39540000" />
+    <option name="totallyTimeSpent" value="43055000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Learn" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Web" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.26675603" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24463807" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" weight="0.3286119" />
       <window_info anchor="bottom" id="Application Servers" order="0" weight="0.3286119" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Messages" order="2" sideWeight="0.49932975" weight="0.3243626" />
@@ -505,13 +657,13 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="9" />
       <window_info anchor="bottom" id="Find" order="10" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.49865952" weight="0.6303116" />
+      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.49865952" weight="0.47733712" />
       <window_info anchor="bottom" id="Debug" order="12" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="15" />
       <window_info anchor="bottom" id="Inspection Results" order="16" />
-      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Database" order="0" weight="0.3297587" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="right" id="Maven" order="2" weight="0.3297587" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -576,270 +728,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="修改项目结构以及项目版本。" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/myg-order-dao-service/src/main/java/com/zjt/mapper/MygOrderGoodsMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-order-dao-service/src/main/java/com/zjt/service/IMygOrderGoodsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="59" lean-forward="true" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-order-dao-service/src/main/java/com/zjt/service/IMygOrderService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-order-dao-service/src/main/java/com/zjt/service/impl/MygOrderGoodsServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="36" lean-forward="true" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-order-dao-service/src/main/java/com/zjt/service/impl/MygOrderServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-common/src/main/java/com/zjt/entity/MygAdmin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/dao/MygFirstCategoryMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/dao/MygGoodsMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/dao/MygSecondCategoryMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/service/IMygCartService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/service/IMygGoodsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/service/IMygSecondCategoryService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/service/IMygFirstCategoryService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/service/impl/MygCartServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="67" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/service/impl/MygFirstCategoryServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="67" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/service/impl/MygGoodsServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="67" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/service/impl/MygSecondCategoryServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/dao/MygCourierMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/dao/MygSysRoleMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="50" lean-forward="true" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/dao/MygSysLogMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/service/IMygCourierService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="50" lean-forward="true" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/service/IMygSysRoleService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/service/IMygSysLogService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/service/impl/MygSysLogServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="67" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/service/impl/MygCourierServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="67" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/service/impl/MygSysRoleServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/dao/MygAdminMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/dao/MygUserCollectionMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/dao/MygUserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/dao/MygUserAddressMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/service/impl/MygAdminServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="67" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/service/impl/MygUserAddressServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="67" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/service/impl/MygUserCollectionServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="67" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/service/impl/MygUserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/service/IMygUserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -864,13 +752,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/service/IMygAdminService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myg-view/src/main/java/com/zjt/controller/MygAdminController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -882,13 +763,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-129">
           <caret line="757" column="32" lean-forward="true" selection-start-line="757" selection-start-column="32" selection-end-line="757" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-view/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -909,10 +783,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myg-view/src/main/resoureces/applicationContext.xml">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8e76992f-3d9d-485e-b554-63dea8264959/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-view/src/main/resoureces/jdbc.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+        <state relative-caret-position="25">
+          <caret line="1" column="129" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d77afd8d-e1e6-42ab-bd18-36f333afa8f1/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-view/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="60" column="37" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d77afd8d-e1e6-42ab-bd18-36f333afa8f1/schema/myg/table/myg_cart">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d77afd8d-e1e6-42ab-bd18-36f333afa8f1/schema/myg/table/myg_admin.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-common/src/main/java/com/zjt/util/MD5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d77afd8d-e1e6-42ab-bd18-36f333afa8f1/schema/myg/table/myg_admin">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-view/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="217" column="34" selection-start-line="217" selection-start-column="34" selection-end-line="217" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-view/src/main/resoureces/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-view/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-view/target/classes/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-view/src/main/java/com/zjt/controller/MygGoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -926,37 +882,204 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myg-view/src/main/java/com/zjt/controller/MygGoodsController.java">
+    <entry file="file://$PROJECT_DIR$/myg-view/src/main/webapp/login.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="50">
+          <caret line="23" column="118" selection-start-line="23" selection-start-column="118" selection-end-line="23" selection-end-column="118" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/service/IMygAdminService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="60" column="37" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="37" />
+        <state relative-caret-position="58">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.2.0/mybatis-plus-core-3.2.0.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-877">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/dao/MygAdminMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/mapper/MygUserAddressMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/mapper/MygAdminMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/mapper/MygUserAddressMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="50">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/mapper/MygUserCollectionMapper.xml">
+    <entry file="file://$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/mapper/MygUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/dao/MygCourierMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/mapper/MygSysLogMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/mapper/MygSysRoleMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/mapper/MygCartMapper.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/myg-view/src/main/webapp/index.jsp">
+    <entry file="file://$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/mapper/MygUserCollectionMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-system-dao-service/src/main/java/com/zjt/mapper/MygCourierMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/mapper/MygFirstCategoryMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/mapper/MygGoodsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-product-dao-service/src/main/java/com/zjt/mapper/MygSecondCategoryMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-order-dao-service/src/main/java/com/zjt/mapper/MygOrderMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-order-dao-service/src/main/java/com/zjt/mapper/MygOrderGoodsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-view/src/main/resoureces/mybatis-cofig.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="6" column="51" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="51" />
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-user-dao-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="142" column="8" selection-start-line="142" selection-start-column="8" selection-end-line="151" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-system-dao-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-794">
+          <caret line="98" column="8" selection-start-line="98" selection-start-column="8" selection-end-line="147" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-product-dao-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="181" column="20" selection-start-line="181" selection-start-column="20" selection-end-line="181" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="120" column="20" selection-start-line="120" selection-start-column="20" selection-end-line="120" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-order-dao-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="138" column="8" selection-start-line="138" selection-start-column="8" selection-end-line="147" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-user-dao-service/src/main/java/com/zjt/service/impl/MygAdminServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-user-dao-service/target/classes/com/zjt/mapper/MygAdminMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-view/src/main/java/com/zjt/controller/MygUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-view/src/main/resoureces/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myg-view/src/main/resoureces/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+          <folding>
+            <element signature="e#960#978#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -966,11 +1089,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>mygview:war exploded</last-edited>
+          <last-edited>mygview:war</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.24074075" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -1012,7 +1136,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|mygview</last-edited>
+          <last-edited>mygview</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

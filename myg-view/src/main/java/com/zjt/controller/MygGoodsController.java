@@ -22,7 +22,7 @@ public class MygGoodsController  {//extends BaseController
 
     @RequestMapping("/index")
     public String index(){
-        return "hello";
+        return "login";
     }
 
 }
