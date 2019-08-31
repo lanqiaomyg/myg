@@ -1,6 +1,0 @@
-com\zjt\dao\MygOrderGoodsMapper.class
-com\zjt\dao\MygOrderMapper.class
-com\zjt\service\IMygOrderGoodsService.class
-com\zjt\service\IMygOrderService.class
-com\zjt\service\impl\MygOrderGoodsServiceImpl.class
-com\zjt\service\impl\MygOrderServiceImpl.class
