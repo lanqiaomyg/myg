@@ -57,7 +57,7 @@
         <mybatis.plus.generator.version>3.2.0</mybatis.plus.generator.version>
         <ehcache.version>2.10.3</ehcache.version>
         <mybatis.ehcache.version>1.1.0</mybatis.ehcache.version>
-        <mybatis.version>3.4.6</mybatis.version>
+        <mybatis.version>3.5.6</mybatis.version>
         <mybatis.spring.version>2.0.2</mybatis.spring.version>
         <lombok.version>1.16.8</lombok.version>
         <velocity.version>2.1</velocity.version>
